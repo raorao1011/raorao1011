@@ -8,7 +8,7 @@
 <br>
 
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,vitest,docker,go,terraform,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,vitest,docker,go,terraform,gcp,sentry)](https://skillicons.dev)
 and more...
 
 
