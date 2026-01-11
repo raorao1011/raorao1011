@@ -4,7 +4,7 @@
 
 # Hi There
 - 🧑‍💻 I'm a frontend engineer.
-- 📫 How to reach me: [Twitter - @username](https://twitter.com/mth_rao)
+- 📫 How to reach me: [Twitter - @mth_rao](https://twitter.com/mth_rao)
 <br>
 
 # Skills
