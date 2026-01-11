@@ -1,2 +1,14 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raorao1011&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raorao1011&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=raorao1011" />
+</div>
+
+# Hi There
+- 🧑‍💻 I'm a frontend engineer.
+- 📫 How to reach me: [Twitter - @username](https://twitter.com/mth_rao)
+<br>
+
+# Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,vitest,docker,go,terraform,)](https://skillicons.dev)
+and more...
+
+
